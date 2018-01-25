@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/uavionix_test.dir/main.cxx.o  -o uavionix_test -rdynamic libmavlink_parse_adsb.a libtype_conversions.a 

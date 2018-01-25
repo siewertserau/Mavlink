@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtype_conversions.a  CMakeFiles/type_conversions.dir/type_conversions.cxx.o
+/usr/bin/ranlib libtype_conversions.a

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/icarus/Desktop/Mavlink/main.cxx
+iostream
+-
+fstream
+-
+string
+-
+mavlink_parse_adsb.hxx
+/home/icarus/Desktop/Mavlink/mavlink_parse_adsb.hxx
+
+/home/icarus/Desktop/Mavlink/mavlink_parse_adsb.hxx
+inttypes.h
+-
+vector
+-
+iostream
+-
+
