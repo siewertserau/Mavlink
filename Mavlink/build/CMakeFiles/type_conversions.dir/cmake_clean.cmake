@@ -1,10 +1,10 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/type_conversions.dir/type_conversions.cxx.o"
   "libtype_conversions.pdb"
   "libtype_conversions.a"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/type_conversions.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/type_conversions.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

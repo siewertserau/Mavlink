@@ -40,6 +40,8 @@ int main(int argc, char *argv[])
 			}
 		}
 	}
+        else
+        	cout << "no USB pipe" << endl;
 	
 	cout << endl;
 	pipe.close();

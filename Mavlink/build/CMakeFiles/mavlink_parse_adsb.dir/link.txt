@@ -1,2 +1,2 @@
-/usr/bin/ar qc libmavlink_parse_adsb.a  CMakeFiles/mavlink_parse_adsb.dir/mavlink_parse_adsb.cxx.o
+/usr/bin/ar cr libmavlink_parse_adsb.a  CMakeFiles/mavlink_parse_adsb.dir/mavlink_parse_adsb.cxx.o
 /usr/bin/ranlib libmavlink_parse_adsb.a

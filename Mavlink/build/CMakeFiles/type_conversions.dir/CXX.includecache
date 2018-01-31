@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/icarus/Desktop/Mavlink/type_conversions.cxx
+/home/siewerts/Mavlink/Mavlink/type_conversions.cxx
 type_conversions.hxx
-/home/icarus/Desktop/Mavlink/type_conversions.hxx
+/home/siewerts/Mavlink/Mavlink/type_conversions.hxx
 
-/home/icarus/Desktop/Mavlink/type_conversions.hxx
+/home/siewerts/Mavlink/Mavlink/type_conversions.hxx
 inttypes.h
 -
 

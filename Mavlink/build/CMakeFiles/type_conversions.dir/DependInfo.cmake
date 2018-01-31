@@ -1,20 +1,13 @@
 # The set of languages for which implicit dependencies are needed:
-set(CMAKE_DEPENDS_LANGUAGES
+SET(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/icarus/Desktop/Mavlink/type_conversions.cxx" "/home/icarus/Desktop/Mavlink/build/CMakeFiles/type_conversions.dir/type_conversions.cxx.o"
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/siewerts/Mavlink/Mavlink/type_conversions.cxx" "/home/siewerts/Mavlink/Mavlink/build/CMakeFiles/type_conversions.dir/type_conversions.cxx.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+SET(CMAKE_TARGET_LINKED_INFO_FILES
   )
-
-# Fortran module output directory.
-set(CMAKE_Fortran_TARGET_MODULE_DIR "")

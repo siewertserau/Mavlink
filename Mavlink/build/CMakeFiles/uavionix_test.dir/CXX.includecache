@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/icarus/Desktop/Mavlink/main.cxx
+/home/siewerts/Mavlink/Mavlink/main.cxx
 iostream
 -
 fstream
@@ -14,9 +14,9 @@ fstream
 string
 -
 mavlink_parse_adsb.hxx
-/home/icarus/Desktop/Mavlink/mavlink_parse_adsb.hxx
+/home/siewerts/Mavlink/Mavlink/mavlink_parse_adsb.hxx
 
-/home/icarus/Desktop/Mavlink/mavlink_parse_adsb.hxx
+/home/siewerts/Mavlink/Mavlink/mavlink_parse_adsb.hxx
 inttypes.h
 -
 vector

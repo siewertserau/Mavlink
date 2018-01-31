@@ -1,5 +1,3 @@
-/home/icarus/Desktop/Mavlink/build/CMakeFiles/edit_cache.dir
-/home/icarus/Desktop/Mavlink/build/CMakeFiles/mavlink_parse_adsb.dir
-/home/icarus/Desktop/Mavlink/build/CMakeFiles/type_conversions.dir
-/home/icarus/Desktop/Mavlink/build/CMakeFiles/uavionix_test.dir
-/home/icarus/Desktop/Mavlink/build/CMakeFiles/rebuild_cache.dir
+/home/siewerts/Mavlink/Mavlink/build/CMakeFiles/mavlink_parse_adsb.dir
+/home/siewerts/Mavlink/Mavlink/build/CMakeFiles/type_conversions.dir
+/home/siewerts/Mavlink/Mavlink/build/CMakeFiles/uavionix_test.dir
